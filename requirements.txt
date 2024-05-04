@@ -8,3 +8,8 @@ sentencepiece
 accelerate
 sse-starlette
 streamlit>=1.24.0
+
+rouge_chinese 
+nltk 
+jieba 
+datasets
